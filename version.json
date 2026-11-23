@@ -1,0 +1,16 @@
+{
+ "version": "1.4.0",
+ "version_code": 8,
+ "notas": "Nuevo: firma dibujada con el dedo. En Reportes Operacionales firma el operador; en Control de Riesgos, cada persona de la cuadrilla. La firma aparece como imagen en el Excel.",
+ "publicado": "2026-11-23 14:35 UTC",
+ "apks": {
+  "riesgos": {
+   "url": "https://raw.githubusercontent.com/aramiskk/apps-mina-descargas/main/ControlDeRiesgos-1.4.0-8.apk",
+   "sha256": "4b7cf2312f6cb2864d9fd9120324fe9ab3e99943053ab77b53f2222b33eca496"
+  },
+  "operacionales": {
+   "url": "https://raw.githubusercontent.com/aramiskk/apps-mina-descargas/main/ReportesOperacionales-1.4.0-8.apk",
+   "sha256": "93623599298e9105ef35e2f125c10d18cb040c817600d545d5486310218adb41"
+  }
+ }
+}
